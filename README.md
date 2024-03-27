@@ -71,3 +71,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+
+# Aqui comienza el proyecto desarrollado por el equipo de TAs de la cohorte 48
+---
+## Introduccion a mongodb completada
+## trabajando en nestjs, introduccion
+---
